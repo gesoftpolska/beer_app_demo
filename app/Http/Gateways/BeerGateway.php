@@ -44,7 +44,7 @@ class BeerGateway
         if (isset($brewerName)) {
             return $this->beerRepository->store_new_brewer($brewerName);
         } else {
-            return 'Brawer exist! Create brawer fail!';
+            return 'No data to save!';
         }
 
     }

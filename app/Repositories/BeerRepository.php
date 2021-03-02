@@ -61,11 +61,13 @@ class BeerRepository implements BeerInterface
 
     public function store_new_brewer($name)
     {
-        if (!$this->checkIsExistBrewer($name)) {
+        if (!$this->check_is_exist_brewer($name)) {
             $brewer = new Brewer();
             $brewer->name = $name;
             $brewer->save();
             return 'Brewer was created successfull!';
+        }else{
+            return 'Brewer name is exist! Save failed!';
         }
     }
 
