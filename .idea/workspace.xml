@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f6976f9-d667-44fd-a6b0-ee7b4b30e30e" name="Default" comment="" />
+    <list default="true" id="9f6976f9-d667-44fd-a6b0-ee7b4b30e30e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BeerSeeder.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/seeds/BeerSeeder.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="e#7#38#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DatabaseSeeder.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,14 +43,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeerRepository.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BeerRepository.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Repositories/BeerRepository.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+            <state relative-caret-position="676">
+              <caret line="67" column="53" lean-forward="true" selection-start-line="67" selection-start-column="53" selection-end-line="67" selection-end-column="53" />
               <folding>
                 <element signature="e#242#382#0#PHP" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -114,6 +116,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -133,6 +138,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/BeerController.php" />
         <option value="$PROJECT_DIR$/app/Http/Interfaces/BeerInterface.php" />
         <option value="$PROJECT_DIR$/app/Repositories/BeerRepository.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -261,6 +267,7 @@
     <option name="width" value="1096" />
     <option name="height" value="1896" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
@@ -376,12 +383,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614641087605</updated>
-      <workItem from="1614641088811" duration="27620000" />
+      <workItem from="1614641088811" duration="27995000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27620000" />
+    <option name="totallyTimeSpent" value="27995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1088" y="-470" width="1096" height="1896" extended-state="6" />
@@ -391,7 +398,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info id="npm" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" visible="true" weight="0.329683" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28088802" />
@@ -559,11 +566,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Repositories/BeerRepository.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+        <state relative-caret-position="676">
+          <caret line="67" column="53" lean-forward="true" selection-start-line="67" selection-start-column="53" selection-end-line="67" selection-end-column="53" />
           <folding>
             <element signature="e#242#382#0#PHP" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
